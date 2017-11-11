@@ -1,0 +1,19 @@
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\bin\Debug\SLR(1) Parser.exe.config
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\bin\Debug\SLR(1) Parser.exe
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\bin\Debug\SLR(1) Parser.pdb
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\obj\Debug\SLR(1) Parser.csprojResolveAssemblyReference.cache
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\obj\Debug\MainWindow.g.cs
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\obj\Debug\App.g.cs
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\obj\Debug\SLR(1) Parser_MarkupCompile.cache
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\obj\Debug\SLR(1) Parser_MarkupCompile.lref
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\obj\Debug\MainWindow.baml
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\obj\Debug\SLR(1) Parser.g.resources
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\obj\Debug\SLR_1__Parser.Properties.Resources.resources
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\obj\Debug\SLR(1) Parser.csproj.GenerateResource.Cache
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\obj\Debug\SLR(1) Parser.csproj.CoreCompileInputs.cache
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\obj\Debug\SLR(1) Parser.exe
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\obj\Debug\SLR(1) Parser.pdb
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\obj\Debug\WinTable.g.cs
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1) Parser\obj\Debug\WinTable.baml

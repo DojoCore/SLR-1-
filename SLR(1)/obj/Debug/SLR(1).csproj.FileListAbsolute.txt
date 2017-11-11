@@ -1,0 +1,10 @@
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1)\bin\Debug\temp.json
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1)\bin\Debug\SLR(1).exe.config
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1)\bin\Debug\SLR(1).exe
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1)\bin\Debug\SLR(1).pdb
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1)\obj\Debug\SLR(1).csprojResolveAssemblyReference.cache
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1)\obj\Debug\SLR(1).csproj.CoreCompileInputs.cache
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1)\obj\Debug\SLR(1).exe
+C:\Users\a1364\Documents\Visual Studio 2017\Projects\SLR(1)\SLR(1)\obj\Debug\SLR(1).pdb

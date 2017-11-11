@@ -1,0 +1,33 @@
+[
+  {
+    "define": { "kind": "S", "value": "S'" },
+    "as": 
+    [
+      { "kind": "S", "value": "S" }
+    ]
+  },
+	{
+    "define": { "kind": "S", "value": "S" },
+		"as":
+		[
+			{ "kind":"O", "value":"r" },
+			{ "kind":"S", "value":"D" }
+		]
+	},
+	{
+    "define": { "kind": "S", "value": "D" },
+		"as":
+		[
+			{ "kind":"S", "value":"D" },
+			{ "kind":"O", "value":"," },
+			{ "kind":"O", "value":"i" }
+		]
+	},
+	{
+    "define": { "kind": "S", "value": "D" },
+		"as":
+		[
+			{ "kind":"O", "value":"i" }
+		]
+	}
+]

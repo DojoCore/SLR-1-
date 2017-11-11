@@ -1,0 +1,56 @@
+[
+	{
+    "define": { "kind": "S", "value": "S'" },
+		"as":
+		[
+			{ "kind":"S", "value":"E" }
+		]
+	},
+	{
+    "define": { "kind": "S", "value":"E" },
+		"as":
+		[
+			{ "kind":"S", "value":"E" },
+			{ "kind":"O", "value":"+" },
+			{ "kind":"S", "value":"T" }
+		]
+	},
+	{
+		"define": { "kind": "S", "value":"E" },
+		"as":
+		[
+			{ "kind":"S", "value":"T" }
+		]
+	},
+	{
+		"define": { "kind": "S", "value":"T" },
+		"as":
+		[
+			{ "kind":"S", "value":"T" },
+			{ "kind":"O", "value":"*" },
+			{ "kind":"S", "value":"F" }
+		]
+	},
+	{
+		"define": { "kind": "S", "value":"T" },
+		"as":
+		[
+			{ "kind":"S", "value":"F" }
+		]
+	},
+  {
+    "define": { "kind": "S", "value":"F" },
+    "as": [
+      { "kind": "O", "value": "(" },
+      { "kind": "S", "value": "E" },
+      { "kind": "O", "value": ")" }
+    ]
+  },
+	{
+		"define": { "kind": "S", "value":"F" },
+		"as":
+		[
+			{ "kind":"O", "value":"i" }
+		]
+	}
+]

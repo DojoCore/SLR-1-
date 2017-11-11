@@ -1,0 +1,13 @@
+﻿<Window x:Class="SLR_1__Parser.WinTable"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SLR_1__Parser"
+        mc:Ignorable="d"
+        Title="SLR(1) Table" Height="300" Width="300" SizeToContent="WidthAndHeight" ResizeMode="NoResize">
+    <Grid>
+        <TextBox Name="txtTable" FontFamily="Consolas" Margin="15" IsReadOnly="True"
+                 FontSize="16"/>
+    </Grid>
+</Window>
